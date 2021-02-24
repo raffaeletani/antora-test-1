@@ -1,6 +1,6 @@
 name: antora-test-1
 title: Antora Test 1
-version: dev
+version: 2.5
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
